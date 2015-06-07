@@ -1,3 +1,5 @@
 config.py
 tokens.dat
 *.pyc
+__pycache__
+private.py
